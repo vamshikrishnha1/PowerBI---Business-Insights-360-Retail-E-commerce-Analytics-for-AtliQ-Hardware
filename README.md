@@ -1,7 +1,6 @@
 # Business Insights 360: Retail & E-commerce Analytics for AtliQ Hardwares  
 ***A Power BI project unifying sales, finance, supply chain, and marketing data to improve transparency, forecasting, and profitability for a fast-growing hardware company.***
-
-Initial iteration (Bootcamp version):  
+ 
 [**Live Report Link**](https://app.powerbi.com/view?r=eyJrIjoiOTZlNTNhNDAtNWRhMC00NDc0LWE3NjktOTkzMDNiMmJjYzc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
@@ -86,7 +85,7 @@ A multi-page **Power BI dashboard suite** was developed to give each team a tail
 
 ### Dashboard
 
-🚀 [**Live Dashboard — BI 360 Version 2**](https://app.powerbi.com/view?r=eyJrIjoiOTZlNTNhNDAtNWRhMC00NDc0LWE3NjktOTkzMDNiMmJjYzc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🚀 [**Live Dashboard — BI 360**](https://app.powerbi.com/view?r=eyJrIjoiOTZlNTNhNDAtNWRhMC00NDc0LWE3NjktOTkzMDNiMmJjYzc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
